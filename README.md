@@ -1,9 +1,11 @@
 <h1 align="center"><b>Hi , I'm Joel Garcilazo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🚀 About Me
-I'm a developer from Argentina, currently focused on improving my programming skills and building a solid foundation in technology.
+I'm an aspiring software developer from Argentina, focused on building strong foundations in programming and technology.
+
 At the moment, I am taking the admission course for the Computer Engineering degree at Universidad Nacional de La Matanza (UNLaM), where I plan to continue my studies and grow professionally in the field of IT.
-I'm especially interested in learning new technologies, gaining practical experience, and continuously improving as a developer. I'm always open to new challenges and opportunities that help me grow.
+
+I'm especially interested in learning new technologies, gaining practical experience, and continuously improving as a developer. I'm currently aiming to start my career in IT, particularly in software development.
 
 ## My Skills Include
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
